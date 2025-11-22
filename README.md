@@ -1,15 +1,15 @@
 This is a calculator made by Krish Bhatia (Registration number -25BME10010)
 Simple Python Calculator
 
-This is a basic Python program that performs four arithmetic operations:
+<ins>**This is a basic Python program that performs four arithmetic operations:**</ins>
 
-Addition
+*Addition
 
-Subtraction
+*Subtraction
 
-Multiplication
+*Multiplication
 
-Division
+*Division
 
 How It Works
 
