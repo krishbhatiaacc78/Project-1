@@ -13,30 +13,32 @@ Simple Python Calculator
 
 How It Works
 
-The user selects an operation (1–4).
+-The user selects an operation (1–4).
 
-The user enters two numbers.
+-The user enters two numbers.
 
-The program performs the selected operation and prints the result.
+-The program performs the selected operation and prints the result.
 
-The user can choose to perform another calculation or exit.
+-The user can choose to perform another calculation or exit.
 
-Functions Used
-Function	Purpose
-add(x, y)	Adds two numbers
-subtract(x, y)	Subtracts second number from first
-multiply(x, y)	Multiplies two numbers
-divide(x, y)	Divides first number by second
-Running the Program
+<ins>**Functions Used**</ins>
+|Function |	Purpose|
+| --- | --- |
+|add(x, y)	| Adds two numbers |
+|subtract(x, y) |	Subtracts second number from first |
+|multiply(x, y)	| Multiplies two numbers |
+|divide(x, y)	| Divides first number by second |
 
-Save the code in a file named calculator.py.
+<ins>**Running the Program **</ins>
 
-Run it using the command:
+-Save the code in a file named `calculator.py.`
+
+-Run it using the command:
 
 python calculator.py
 
-Notes
+<ins>**Notes**</ins>
 
-The program checks for invalid input (non-numeric values).
+-The program checks for invalid input (non-numeric values).
 
-Division by zero is not allowed and gives a warning message.
+-Division by zero is not allowed and gives a warning message.
